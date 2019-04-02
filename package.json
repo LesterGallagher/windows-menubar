@@ -1,9 +1,14 @@
 {
   "name": "windows-menubar",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A navbar that looks like the native windows menu bar.",
   "main": "index.js",
   "scripts": {},
   "author": "Sem Postma",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["Windows", "Navbar"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LesterGallagher/windows-menubar.git"
+  }
 }
